@@ -24,5 +24,6 @@ We build open-source tools for [Reticulum](https://reticulum.network) — the en
 **Public Software**
 - [**RLAP-py**](https://github.com/ratspeak/rlap-py) — Interactive app sessions over LXMF, in Python
 - [**RLAP-rs**](https://github.com/ratspeak/rlap-rs) — Interactive app sessions over LXMF, in Rust
+- [**revanity-go**](https://github.com/ratspeak/revanity-go) — Reticulum/LXMF vanity address generator, in Go
 
 A fully cross-compatible, feature-full Reticulum client by Ratspeak is almost ready.
