@@ -18,12 +18,12 @@
 We build open-source tools for [Reticulum](https://reticulum.network) — the encrypted, open-source mesh networking stack.
 
 **Public Firmware**
-- [**RatCom**](https://github.com/ratspeak/ratcom) — Reticulum on the M5Stack Cardputer
-- [**RatDeck**](https://github.com/ratspeak/ratdeck) — Reticulum on the LilyGo T-Deck
+- [**ratcom**](https://github.com/ratspeak/ratcom) — Reticulum on the M5Stack Cardputer
+- [**ratdeck**](https://github.com/ratspeak/ratdeck) — Reticulum on the LilyGo T-Deck
 
 **Public Software**
-- [**RLAP-py**](https://github.com/ratspeak/rlap-py) — Interactive app sessions over LXMF, in Python
-- [**RLAP-rs**](https://github.com/ratspeak/rlap-rs) — Interactive app sessions over LXMF, in Rust
+- [**rlap-py**](https://github.com/ratspeak/rlap-py) — Interactive app sessions over LXMF, in Python
+- [**rlap-rs**](https://github.com/ratspeak/rlap-rs) — Interactive app sessions over LXMF, in Rust
 - [**revanity-go**](https://github.com/ratspeak/revanity-go) — Reticulum/LXMF vanity address generator, in Go
 
 A fully cross-compatible, feature-full Reticulum client by Ratspeak is almost ready.
