@@ -1,8 +1,8 @@
 <div align="center">
 
-# ratspeak
+# Ratspeak.org
 
-### Your Network. Your Freedom.
+### New Networks. New Possibilities.
 
 [![Website](https://img.shields.io/badge/WEBSITE-ratspeak.org-00cc55?style=for-the-badge&logoColor=white)](https://ratspeak.org)
 [![About](https://img.shields.io/badge/ABOUT-ratspeak.org%2Fabout-00cc55?style=for-the-badge&logoColor=white)](https://ratspeak.org/about.html)
@@ -13,9 +13,9 @@
 
 ---
 
-### Hey there
+### Hello world.
 
-We build open-source tools for [Reticulum](https://reticulum.network) — the encrypted, open-source mesh networking stack.
+Our mission is to support the entire [Reticulum](https://reticulum.network) ecosystem — software support, hardware availability, knowledge accessibility, and community building are our main focus pillars.
 
 **Public Firmware**
 - [**ratcom**](https://github.com/ratspeak/ratcom) — Reticulum on the M5Stack Cardputer
@@ -26,4 +26,4 @@ We build open-source tools for [Reticulum](https://reticulum.network) — the en
 - [**rlap-rs**](https://github.com/ratspeak/rlap-rs) — Interactive app sessions over LXMF, in Rust
 - [**revanity-go**](https://github.com/ratspeak/revanity-go) — Reticulum/LXMF vanity address generator, in Go
 
-A fully cross-compatible, feature-full Reticulum client by Ratspeak is almost ready.
+Our cross-compatible, feature-full Reticulum client is almost ready - stay tuned.
