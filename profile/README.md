@@ -17,11 +17,9 @@
 
 Our mission is to support the entire [Reticulum](https://reticulum.network) ecosystem — software support, hardware availability, knowledge accessibility, and community building are our main focus pillars.
 
-**Public Firmware**
+- [**ratspeak-website**](https://github.com/ratspeak/ratspeak-website) - Ratspeak's frontend website + docs
 - [**ratcom**](https://github.com/ratspeak/ratcom) — Reticulum on the M5Stack Cardputer
 - [**ratdeck**](https://github.com/ratspeak/ratdeck) — Reticulum on the LilyGo T-Deck
-
-**Public Software**
 - [**lrgp-py**](https://github.com/ratspeak/lrgp-py) — Multiplayer games over LXMF, in Python
 - [**lrgp-rs**](https://github.com/ratspeak/lrgp-rs) — Multiplayer games over LXMF, in Rust
 - [**revanity-go**](https://github.com/ratspeak/revanity-go) — Reticulum/LXMF vanity address generator, in Go
