@@ -22,8 +22,8 @@ Our mission is to support the entire [Reticulum](https://reticulum.network) ecos
 - [**ratdeck**](https://github.com/ratspeak/ratdeck) — Reticulum on the LilyGo T-Deck
 
 **Public Software**
-- [**lrgp-py**](https://github.com/ratspeak/lrgp-py) — Multiplayer games over LXMF mesh networks, in Python
-- [**lrgp-rs**](https://github.com/ratspeak/lrgp-rs) — Multiplayer games over LXMF mesh networks, in Rust
+- [**lrgp-py**](https://github.com/ratspeak/lrgp-py) — Multiplayer games over LXMF, in Python
+- [**lrgp-rs**](https://github.com/ratspeak/lrgp-rs) — Multiplayer games over LXMF, in Rust
 - [**revanity-go**](https://github.com/ratspeak/revanity-go) — Reticulum/LXMF vanity address generator, in Go
 
 Our cross-compatible, feature-full Reticulum client is almost ready - stay tuned.
