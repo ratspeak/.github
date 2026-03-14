@@ -13,7 +13,7 @@
 ```
 ╔══════════════════════════════════════════════════╗
 ║                                                  ║
-║   "Privacy is a fundamental human right."        ║
+║     "Privacy is a fundamental human right."      ║
 ║                                                  ║
 ╚══════════════════════════════════════════════════╝
 ```
