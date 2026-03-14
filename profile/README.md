@@ -21,7 +21,7 @@
 </div>
 <br>
 
-## What We Do
+## About Us
 
 #### Our mission is to support the entire [Reticulum](https://reticulum.network) ecosystem.
 Software support, hardware availability, knowledge accessibility, and community building are our core pillars. We have a vision for Reticulum that many won't understand, and that's okay — we're still going to build it.
