@@ -4,8 +4,8 @@
 
 ### New Networks. New Possibilities.
 
-[![Website](https://img.shields.io/badge/WEBSITE-ratspeak.org-00cc55?style=for-the-badge&logoColor=white)](https://ratspeak.org)
-[![About](https://img.shields.io/badge/ABOUT-ratspeak.org%2Fabout-00cc55?style=for-the-badge&logoColor=white)](https://ratspeak.org/about.html)
+[![Website](https://img.shields.io/badge/WEBSITE-ratspeak.org-00a383?style=for-the-badge&logoColor=white)](https://ratspeak.org)
+[![About](https://img.shields.io/badge/ABOUT-ratspeak.org%2Fabout-00a383?style=for-the-badge&logoColor=white)](https://ratspeak.org/about.html)
 [![Follow](https://img.shields.io/github/followers/ratspeak?label=FOLLOW&style=for-the-badge&color=222222&labelColor=111111)](https://github.com/ratspeak)
 [![X](https://img.shields.io/badge/X-@defidude-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/defidude)
 
