@@ -21,14 +21,15 @@
 </div>
 <br>
 
-### What We Do
+## What We Do
 
-Our mission is to support the entire [Reticulum](https://reticulum.network) ecosystem. Software support, hardware availability, knowledge accessibility, and community building are our core pillars.
+#### Our mission is to support the entire [Reticulum](https://reticulum.network) ecosystem.
+Software support, hardware availability, knowledge accessibility, and community building are our core pillars. We have a vision for Reticulum that many won't understand, and that's okay — we're still going to build it.
 
 
 <br>
 
-### Hardware Firmware
+## Hardware Firmware
 
 | Repo | Description |
 |:-----|:------------|
@@ -37,7 +38,7 @@ Our mission is to support the entire [Reticulum](https://reticulum.network) ecos
 
 <br>
 
-### Software & Libraries
+## Software & Libraries
 
 | Repo | Description |
 |:-----|:------------|
@@ -50,6 +51,6 @@ Our mission is to support the entire [Reticulum](https://reticulum.network) ecos
 
 <div align="center">
 
-<sub>Built with purpose.</sub>
+<sub>Built with love and intent.</sub>
 
 </div>
