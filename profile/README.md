@@ -11,11 +11,11 @@
 [![X](https://img.shields.io/badge/X-@defidude-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/defidude)
 
 ```
-╔══════════════════════════════════════════════════╗
-║                                                  ║
-║     "Privacy is a fundamental human right."      ║
-║                                                  ║
-╚══════════════════════════════════════════════════╝
+╔════════════════════════════════════╗
+║                                    ║
+║     Privacy is a human right.      ║
+║                                    ║
+╚════════════════════════════════════╝
 ```
 ---
 </div>
