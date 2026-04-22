@@ -42,12 +42,12 @@ Software support, hardware availability, knowledge accessibility, and community 
 
 | Repo | Description |
 |:-----|:------------|
-| [**rathole**](https://github.com/ratspeak/rathole) | TCP/I2P node + security suite for Reticulum |
 | [**ratkey**](https://github.com/ratspeak/ratkey) | Hardware-backed identity protection for Reticulum |
 | [**lrgp-py**](https://github.com/ratspeak/lrgp-py) | Multiplayer games over LXMF (Python) |
 | [**lrgp-rs**](https://github.com/ratspeak/lrgp-rs) | Multiplayer games over LXMF (Rust) |
 | [**revanity-go**](https://github.com/ratspeak/revanity-go) | Reticulum/LXMF vanity address generator |
 | [**ratspeak-website**](https://github.com/ratspeak/ratspeak-website) | Ratspeak's frontend website + docs |
+| [**rathole**](https://github.com/ratspeak/rathole) | TCP/I2P node + security suite for Reticulum (PoC) |
 
 <br>
 
