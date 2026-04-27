@@ -43,6 +43,7 @@ Software support, hardware availability, knowledge accessibility, and community 
 | Repo | Description |
 |:-----|:------------|
 | [**ratkey**](https://github.com/ratspeak/ratkey) | Hardware-backed identity protection for Reticulum |
+| [**LXMFace**](https://github.com/ratspeak/LXMFace) | Deterministic visual identities for LXMF/Reticulum |
 | [**lrgp-py**](https://github.com/ratspeak/lrgp-py) | Multiplayer games over LXMF (Python) |
 | [**lrgp-rs**](https://github.com/ratspeak/lrgp-rs) | Multiplayer games over LXMF (Rust) |
 | [**revanity-go**](https://github.com/ratspeak/revanity-go) | Reticulum/LXMF vanity address generator |
