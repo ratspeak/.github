@@ -22,7 +22,7 @@
 
 ## About Us
 
-#### Our mission is to support the entire [Reticulum](https://reticulum.network) ecosystem.
+#### Our mission is to support the entire [Reticulum](https://reticulum.network) ecosystem, and what is built around it.
 Software, hardware, knowledge, and community are our focus points. Privacy and freedom are baked into the core of everything we do. We have a vision for Reticulum and global communication that many won't understand, and that's okay. We're building it anyway.
 
 ## Flagship
