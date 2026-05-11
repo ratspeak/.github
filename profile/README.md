@@ -21,54 +21,63 @@
 
 ## About Us
 
-#### Our mission is to support the entire [Reticulum](https://reticulum.network) ecosystem, and what is built around it.
+#### Our mission is to support the entire [Reticulum](https://reticulum.network) ecosystem.
 Software, hardware, knowledge, and community are our focus points. Privacy and freedom are baked into the core of everything we do. We have a vision for Reticulum and global communication that many won't understand, and that's okay. We're building it anyway.
 
 ## Flagship
 
-<table>
-<tr>
-<td width="65%" valign="middle" align="center">
-
-<br>
+<div align="center">
 
 # [Ratspeak](https://github.com/ratspeak/ratspeak)
 
 **A cross-compatible client for LXMF & Reticulum**
 
-[![Windows](https://img.shields.io/badge/Windows-0078D4?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0wIDMuNDQ5TDkuNzUgMi4xdjkuNDUxSDBtMTAuOTQ5LTkuNjAyTDI0IDB2MTEuNEgxMC45NDlNMCAxMi42aDkuNzV2OS40NTFMMCAyMC42OTlNMTAuOTQ5IDEyLjZIMjRWMjRsLTEyLjktMS44MDEiLz48L3N2Zz4=)](https://github.com/ratspeak/Ratspeak)
-[![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)](https://github.com/ratspeak/Ratspeak)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://github.com/ratspeak/Ratspeak)
-
-[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](https://github.com/ratspeak/Ratspeak)
-[![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white)](https://github.com/ratspeak/Ratspeak)
+[![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0wIDMuNDQ5TDkuNzUgMi4xdjkuNDUxSDBtMTAuOTQ5LTkuNjAyTDI0IDB2MTEuNEgxMC45NDlNMCAxMi42aDkuNzV2OS40NTFMMCAyMC42OTlNMTAuOTQ5IDEyLjZIMjRWMjRsLTEyLjktMS44MDEiLz48L3N2Zz4=)](https://github.com/ratspeak/Ratspeak)
+[![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/ratspeak/Ratspeak)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/ratspeak/Ratspeak)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/ratspeak/Ratspeak)
+[![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/ratspeak/Ratspeak)
 
 <br>
+
+<sub>— BUILT ON —</sub>
+
+<table align="center">
+<tr>
+<td width="220" valign="top" align="center">
+
+### [rsLXMF](https://github.com/ratspeak/rsLXMF)
+<sub>LXMF in Rust</sub>
+
+![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white)
 
 </td>
-<td width="35%" valign="middle">
+<td width="220" valign="top" align="center">
 
-<sub>BUILT ON</sub>
+### [rsReticulum](https://github.com/ratspeak/rsReticulum)
+<sub>Reticulum in Rust</sub>
 
-**[rsReticulum](https://github.com/ratspeak/rsReticulum)**<br>
-<sub>Reticulum in Rust</sub><br>
+![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white)
 
-![Rust](https://img.shields.io/badge/-Rust-000?logo=rust&logoColor=white)
+</td>
+<td width="220" valign="top" align="center">
 
-<br>
+### [rsLXST](https://github.com/ratspeak/rsLXST)
+<sub>LXST in Rust</sub>
 
-**[rsLXMF](https://github.com/ratspeak/rsLXMF)**<br>
-<sub>LXMF in Rust</sub><br>
-
-![Rust](https://img.shields.io/badge/-Rust-000?logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white)
 
 </td>
 </tr>
 </table>
 
+</div>
+
 <br>
 
 ## Ecosystem
+
+<div align="center">
 
 <table>
 <tr>
@@ -91,7 +100,7 @@ Software, hardware, knowledge, and community are our focus points. Privacy and f
 <td width="33%" valign="top">
 
 ### [ratkey](https://github.com/ratspeak/ratkey)
-<sub>Hardware-backed identity protection for Reticulum</sub>
+<sub>Hardware-backed identity for Reticulum</sub>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
@@ -101,7 +110,7 @@ Software, hardware, knowledge, and community are our focus points. Privacy and f
 <td width="33%" valign="top">
 
 ### [LXMFace](https://github.com/ratspeak/LXMFace)
-<sub>Deterministic visual identities for LXMF/Reticulum</sub>
+<sub>Deterministic avatars for LXMF/Reticulum</sub>
 
 ![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -153,7 +162,7 @@ Software, hardware, knowledge, and community are our focus points. Privacy and f
 </tr>
 </table>
 
-<br>
+</dev>
 
 <br>
 
