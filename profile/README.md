@@ -83,8 +83,8 @@ Software, hardware, knowledge, and community are our focus points. Privacy and f
 <tr>
 <td width="33%" valign="top">
 
-### [ratcom](https://github.com/ratspeak/ratcom)
-<sub>Reticulum on the M5Stack Cardputer Adv</sub>
+### [rsCardputer](https://github.com/ratspeak/rsCardputer)
+<sub>Ratspeak for the M5Stack Cardputer Adv</sub>
 
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 
