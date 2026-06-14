@@ -6,7 +6,7 @@
 ### New Networks. New Possibilities.
 
 [![Website](https://img.shields.io/badge/WEBSITE-ratspeak.org-D2693B?style=for-the-badge&labelColor=000000&logoColor=white)](https://ratspeak.org)
-[![X](https://img.shields.io/badge/X-@defidude-D2693B?style=for-the-badge&labelColor=000000&logo=x&logoColor=white)](https://x.com/defidude)
+[![X](https://img.shields.io/badge/X-@ratspeakorg-D2693B?style=for-the-badge&labelColor=000000&logo=x&logoColor=white)](https://x.com/ratspeakorg)
 
 ```
 ╔════════════════════════════════════╗
@@ -91,7 +91,7 @@ Software, hardware, knowledge, and community are our focus points. Privacy and f
 </td>
 <td width="33%" valign="top">
 
-### [ratdeck](https://github.com/ratspeak/ratdeck)
+### [rsDeck](https://github.com/ratspeak/rsDeck)
 <sub>Reticulum on the LilyGo T-Deck Plus</sub>
 
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
