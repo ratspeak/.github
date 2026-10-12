@@ -30,8 +30,6 @@ Software, hardware, knowledge, and community are our focus points. Privacy and f
 
 # [Ratspeak](https://github.com/ratspeak/ratspeak)
 
-**A cross-compatible client for LXMF & Reticulum**
-
 [![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0wIDMuNDQ5TDkuNzUgMi4xdjkuNDUxSDBtMTAuOTQ5LTkuNjAyTDI0IDB2MTEuNEgxMC45NDlNMCAxMi42aDkuNzV2OS40NTFMMCAyMC42OTlNMTAuOTQ5IDEyLjZIMjRWMjRsLTEyLjktMS44MDEiLz48L3N2Zz4=)](https://github.com/ratspeak/Ratspeak)
 [![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/ratspeak/Ratspeak)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/ratspeak/Ratspeak)
@@ -47,7 +45,7 @@ Software, hardware, knowledge, and community are our focus points. Privacy and f
 <td width="220" valign="top" align="center">
 
 ### [rsLXMF](https://github.com/ratspeak/rsLXMF)
-<sub>LXMF in Rust</sub>
+<sub>Messaging/App layer</sub>
 
 ![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white)
 
@@ -55,7 +53,7 @@ Software, hardware, knowledge, and community are our focus points. Privacy and f
 <td width="220" valign="top" align="center">
 
 ### [rsReticulum](https://github.com/ratspeak/rsReticulum)
-<sub>Reticulum in Rust</sub>
+<sub>Transport/Network layer</sub>
 
 ![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white)
 
@@ -63,7 +61,7 @@ Software, hardware, knowledge, and community are our focus points. Privacy and f
 <td width="220" valign="top" align="center">
 
 ### [rsLXST](https://github.com/ratspeak/rsLXST)
-<sub>LXST in Rust</sub>
+<sub>Voice/audio library</sub>
 
 ![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white)
 
