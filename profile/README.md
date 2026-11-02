@@ -6,6 +6,7 @@
 ### New Networks. New Possibilities.
 
 [![Website](https://img.shields.io/badge/WEBSITE-ratspeak.org-D2693B?style=for-the-badge&labelColor=000000&logoColor=white)](https://ratspeak.org)
+[![Docs](https://img.shields.io/badge/DOCS-docs.ratspeak.org-D2693B?style=for-the-badge&labelColor=000000)](https://docs.ratspeak.org/)
 [![X](https://img.shields.io/badge/X-@ratspeakorg-D2693B?style=for-the-badge&labelColor=000000&logo=x&logoColor=white)](https://x.com/ratspeakorg)
 
 ```
@@ -61,7 +62,7 @@ Software, hardware, knowledge, and community are our focus points. Privacy and f
 <td width="220" valign="top" align="center">
 
 ### [rsLXST](https://github.com/ratspeak/rsLXST)
-<sub>Voice/audio library</sub>
+<sub>Voice/audio library · experimental</sub>
 
 ![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white)
 
@@ -81,24 +82,24 @@ Software, hardware, knowledge, and community are our focus points. Privacy and f
 <tr>
 <td width="33%" valign="top">
 
-### [rsCardputer](https://github.com/ratspeak/rsCardputer)
-<sub>Ratspeak for the M5Stack Cardputer Adv</sub>
+### [Ratspeak Handheld](https://github.com/ratspeak/ratspeak-handheld)
+<sub>Beta firmware for T-Deck Plus, T-Pager, Cardputer Adv and M9</sub>
 
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 
 </td>
 <td width="33%" valign="top">
 
-### [rsDeck](https://github.com/ratspeak/rsDeck)
-<sub>Reticulum on the LilyGo T-Deck Plus</sub>
+### [rsReticulumLite](https://github.com/ratspeak/rsReticulumLite)
+<sub>Reticulum core for constrained devices</sub>
 
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=white)
 
 </td>
 <td width="33%" valign="top">
 
 ### [ratkey](https://github.com/ratspeak/ratkey)
-<sub>Hardware-backed identity for Reticulum</sub>
+<sub>Experimental Python hardware-identity adapter</sub>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
@@ -134,16 +135,16 @@ Software, hardware, knowledge, and community are our focus points. Privacy and f
 <tr>
 <td width="33%" valign="top">
 
-### [microReticulum](https://github.com/ratspeak/microReticulum)
-<sub>Custom fork of microReticulum</sub>
+### [rsLXMFLite](https://github.com/ratspeak/rsLXMFLite)
+<sub>LXMF codec for constrained devices</sub>
 
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=white)
 
 </td>
 <td width="33%" valign="top">
 
 ### [rathole](https://github.com/ratspeak/rathole)
-<sub>Security suite + transport node for Reticulum</sub>
+<sub>Experimental packet filters and I2P peering for Python Reticulum</sub>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PoC](https://img.shields.io/badge/status-PoC-orange)
@@ -152,7 +153,7 @@ Software, hardware, knowledge, and community are our focus points. Privacy and f
 <td width="33%" valign="top">
 
 ### [ratspeak-website](https://github.com/ratspeak/ratspeak-website)
-<sub>Frontend website + docs</sub>
+<sub>Main website · documentation lives at <a href="https://docs.ratspeak.org/">docs.ratspeak.org</a></sub>
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
 
@@ -160,7 +161,9 @@ Software, hardware, knowledge, and community are our focus points. Privacy and f
 </tr>
 </table>
 
-</dev>
+</div>
+
+The earlier [rsDeck](https://github.com/ratspeak/rsDeck), [rsPager](https://github.com/ratspeak/rsPager), [rsCardputer](https://github.com/ratspeak/rsCardputer) and [microReticulum fork](https://github.com/ratspeak/microReticulum) remain available as legacy references. Current handheld firmware is maintained in [ratspeak-handheld](https://github.com/ratspeak/ratspeak-handheld).
 
 <br>
 
